@@ -1,14 +1,25 @@
-# GEN1 Main Street Google Launch — V2
+# GEN1 GBP V3
 
-Upload ALL files and the `assets` folder to the root of your GitHub Pages repository.
+V3 rebuild of the GEN1 Main Street Google Launch funnel.
 
-## Pages
-- `index.html` — cinematic long-form sales page
-- `free-check.html` — free Google Check squeeze page
-- `qualify.html` — pre-purchase eligibility check
+## Files
+- index.html — cinematic long-form sales page
+- qualify.html — pre-payment eligibility check
+- free-check.html — free Google Check squeeze page
+- styles.css / script.js
+- assets/ — established GEN1 character art
 
-## IMPORTANT before paid traffic
-The forms currently use a placeholder mailto address. Replace the form actions with your HighLevel or ClickFunnels form/checkout endpoints. Replace the main paid CTA flow with your real checkout after eligibility logic is connected.
+## V3 copy doctrine
+- Plain English.
+- Narrative first.
+- Bullets used only when they improve the sale.
+- Bullet formula: Feature + Benefit + Meaning.
+- Five strong bullets beat a long feature dump.
+- Clear buttons, not text links pretending to be CTAs.
+- No fake Google UI.
+- No fake ranking claims.
+- Main CTA: qualify for the $500 Google Launch.
+- Secondary path: Free GEN1 Google Check.
 
-## Tracking events to configure in HighLevel/ClickFunnels/analytics
-Page view, main CTA click, free-check click, free-check submit, qualification submit, order-form view, purchase, abandoned checkout, traffic source, CPL, CAC, revenue, 30-day ascension, 90-day ascension revenue.
+## Before paid traffic
+Replace the temporary mailto form actions with real HighLevel/ClickFunnels forms and checkout.
